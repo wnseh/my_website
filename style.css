@@ -1,0 +1,12 @@
+body {
+    background: blue;
+}
+
+h1 {
+    font-style:italic;
+    color: white;
+}
+
+#sentence{
+    color:white;
+}
